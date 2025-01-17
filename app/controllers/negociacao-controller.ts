@@ -24,6 +24,7 @@ export class NegociacaoController {
         const quantidade = parseInt(this.inputQuantidade.value);
         const valor = parseFloat(this.inputValor.value);
 
+
         return new Negociacao(
             date,
             quantidade,
