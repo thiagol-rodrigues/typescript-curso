@@ -1,4 +1,4 @@
-# Estudo de Angular README
+# Estudo de Angular 
 
 ## Objetivo
 Atualmente estou estudando o desenvolvimento em Angular e focando em construir uma base sólida nas seguintes tecnologias:
